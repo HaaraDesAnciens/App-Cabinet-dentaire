@@ -1,0 +1,44 @@
+:root {
+  /* Surfaces */
+  --color-bg: #F6F8FA;
+  --color-surface: #FFFFFF;
+  --color-border: #E3E8EF;
+
+  /* Text */
+  --color-text: #101828;
+  --color-text-muted: #667085;
+
+  /* Brand / semantic */
+  --color-accent: #4F46E5;
+  --color-accent-light: #EEF0FF;
+  --color-accent-gradient: linear-gradient(135deg, #4F46E5, #0EA5A4);
+  --color-teal: #0EA5A4;
+  --color-teal-light: #E3F8F7;
+  --color-success: #16A34A;
+  --color-success-light: #E7F7EC;
+  --color-warning: #F59E0B;
+  --color-warning-light: #FEF3E2;
+  --color-purple: #7C5CFC;
+  --color-purple-light: #F1EDFF;
+  --color-info: #2563EB;
+  --color-info-light: #E8EFFE;
+  --color-danger: #DC2626;
+  --color-danger-light: #FCE9E9;
+  --color-muted-light: #EEF0F3;
+
+  /* Type */
+  --font-heading: 'Sora', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Radii / shadows */
+  --radius-sm: 10px;
+  --radius-md: 12px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.06);
+  --shadow-md: 0 4px 12px rgba(16, 24, 40, 0.08);
+  --shadow-lg: 0 12px 32px rgba(16, 24, 40, 0.14);
+
+  --sidebar-width: 250px;
+  --topbar-height: 64px;
+  --breakpoint-desktop: 860px;
+}
